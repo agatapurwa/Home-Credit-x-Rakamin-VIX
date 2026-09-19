@@ -1,5 +1,4 @@
-# Home-Credit-x-Rakamin-VIX
-# Home Credit Default Risk Prediction 📊
+# Home-Credit-x-Rakamin-VIX: Home Credit Default Risk Prediction 📊
 
 An end-to-end Machine Learning project to predict the probability of clients defaulting on their loans. This project is developed as part of the Data Science Virtual Internship Experience (VIX) with Rakamin Academy and Home Credit Indonesia.
 

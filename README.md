@@ -22,11 +22,11 @@ Developed and evaluated predictive models using the preprocessed pipeline:
 - **Random Forest Classifier:** Utilized for capturing non-linear relationships and extracting feature importance.
 
 ## 📂 Repository Structure
-* `Home_Credit_Scorecard_Model.ipynb` : The main Jupyter Notebook containing the full EDA, preprocessing, and modeling pipeline.
+* `Home_Credit_Scorecard_Model.ipynb` : The primary Jupyter Notebook containing EDA, custom preprocessing pipeline, feature engineering, and model training.
 * `gambar/` : Directory containing architectural diagrams and visualization outputs.
-* `Dataset/` : Ignored via `.gitignore` due to large file sizes. The original dataset can be accessed via Kaggle's Home Credit Default Risk competition.
+* `Dataset/` : Ignored via `.gitignore` in compliance with data privacy policies and repository size limits.
 
-## 🚀 How to Run Locally
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/agatapurwa/Home-Credit-x-Rakamin-VIX.git](https://github.com/agatapurwa/Home-Credit-x-Rakamin-VIX.git)
+## 🚀 Reproduction & Data Notice
+> **Note on Dataset:** The dataset used in this project was provided as part of the Rakamin Virtual Internship Experience (VIX) and contains specific feature structures/column mappings tailored to the program. 
+> 
+> Due to data distribution policies and structural differences from the original raw Kaggle dataset, the raw data files are kept private. This repository serves as a demonstration of data science workflows, feature engineering logic, and machine learning pipeline architecture.

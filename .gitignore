@@ -3,3 +3,4 @@
 
 # Atau abaikan seluruh isi folder Dataset
 Dataset/*.csv
+*.zip

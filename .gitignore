@@ -1,0 +1,5 @@
+# Abaikan semua file CSV
+*.csv
+
+# Atau abaikan seluruh isi folder Dataset
+Dataset/*.csv
